@@ -1,4 +1,4 @@
-# hello-world
+# IT-academy/homework
 
 
 its my first repository
